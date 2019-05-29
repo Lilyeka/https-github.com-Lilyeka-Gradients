@@ -4,9 +4,10 @@
 
 drawGradientArrow() draws arrow with red arrowhead and gradient shaft: 
 
-![Arrow](https://github.com/Lilyeka/Gradients/blob/master/Gradients/arrow1.png "Arrow")
+![Arrow](https://github.com/Lilyeka/https-github.com-Lilyeka-Gradients/blob/master/Gradients/arrow1.png "Arrow")
+
 
 drawGradientArrowWithPatternUIKit() and drawGradientArrowWithPatternCoreGraphics() draws arrow with pattern colored arrowhead 
 and gradient shaft:
 
-![Arrow](https://github.com/Lilyeka/PathsAndShapes/blob/master/PathsAndShapes/arrow2.png "Arrow")
+![Arrow](https://github.com/Lilyeka/https-github.com-Lilyeka-Gradients/blob/master/Gradients/arrow2.png "Arrow")
