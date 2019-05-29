@@ -20,12 +20,12 @@ class MyArrow: UIView {
     }
     
     override func draw(_ rect: CGRect) {
-        //drawGradientArrow()
+        drawGradientArrow()
         //drawGradientArrowWithPatternUIKit()
-        drawGradientArrowWithPatternCoreGraphics()
+        //drawGradientArrowWithPatternCoreGraphics()
     }
     
-    func drawGradientArrow(){
+    func drawGradientArrow() {
         // obtain the current graphics context
         let con = UIGraphicsGetCurrentContext()!
         //punch triangular hole in context clipping region
